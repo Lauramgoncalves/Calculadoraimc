@@ -1,0 +1,35 @@
+body {
+    background: #e6e6fa;
+    font: normal 15pt sans-serif;
+
+}
+header {
+    text-align: left;
+    color: #360c56;
+
+}
+section {
+    background: #dad4e7;
+    border-radius: 20px;
+    padding: 15px;
+    width: 300px;
+    height: 250px;
+    margin: left;
+    color: #18012f;
+    box-shadow: #000000;
+    text-align: center;
+
+}
+div {
+    text-align: center;
+     margin: 0 auto;
+
+}
+
+button {
+    background: #d8bfd8;
+    text-align: center;
+    font-weight: bold;
+
+
+}
